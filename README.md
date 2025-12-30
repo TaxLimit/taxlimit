@@ -3,7 +3,7 @@
 Full-stack developer based in Vilnius, Lithuania. Passionate about building secure, efficient web applications with modern JavaScript technologies.
 
 - Graduated TECHIN Vilnius Technology and Engineering Training Centers, JavaScript programmer curriculum </br>
-- Planning to enroll and study QA Testing at TECHIN starting December</br>
+- Planning to enroll and study QA Testing at TECHIN starting Febuary</br>
 - Currently learning Next.js and making my personal website, whilst shifting my focus toward web development from full-stack development
 
 Outside of coding, I'm a fiercely competitive FPS enthusiast, climbing to elite ranks in games:</br>
